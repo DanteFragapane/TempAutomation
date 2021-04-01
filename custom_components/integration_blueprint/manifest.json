@@ -1,13 +1,11 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
-  "documentation": "https://github.com/custom-components/integration_blueprint",
-  "issue_tracker": "https://github.com/custom-components/integration_blueprint/issues",
-  "dependencies": [],
-  "version": "0.0.0",
-  "config_flow": true,
-  "codeowners": [
-    "@ludeeus"
-  ],
-  "requirements": []
+	"domain": "temperature_automation",
+	"name": "Temperature Automation",
+	"documentation": "https://github.com/DanteFragapane/TempAutomation",
+	"issue_tracker": "https://github.com/DanteFragapane/TempAutomation/issues",
+	"dependencies": [],
+	"version": "0.0.0",
+	"config_flow": true,
+	"codeowners": [ "@dantefragapane" ],
+	"requirements": []
 }
